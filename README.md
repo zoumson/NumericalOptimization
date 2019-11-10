@@ -1,1 +1,1 @@
-# Numerical_Optimization-
+Numerical optimization algorithm 
